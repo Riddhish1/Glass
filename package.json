@@ -1,0 +1,26 @@
+{
+  "name": "glass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riddhish1/Glass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Riddhish1/Glass/issues"
+  },
+  "homepage": "https://github.com/Riddhish1/Glass#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "shelljs": "^0.10.0",
+    "util": "^0.12.5"
+  }
+}
