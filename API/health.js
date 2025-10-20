@@ -1,4 +1,4 @@
-import execute_command from "../Helpers/command.js"
+import execute_command from "../Helpers/helper.command.js"
 
 const health_check = async (req, res) => {
     //just an normal health check with tool detection
