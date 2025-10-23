@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Riddhish1/Glass#readme",
   "dependencies": {
+    "execa": "^9.6.0",
     "express": "^5.1.0",
     "shelljs": "^0.10.0",
     "util": "^0.12.5"
