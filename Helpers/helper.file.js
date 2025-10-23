@@ -37,7 +37,7 @@ class FileOperationsManager {
             const flag = append ? "a" : "w";
             await fs.writeFile(filePath, content, { flag });
             return { success: true, path: filePath };
-        } catch (e) {
+        } catch (err) {
             return { success: false, error: err.message };
         }
     }

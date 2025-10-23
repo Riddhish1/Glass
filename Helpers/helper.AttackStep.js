@@ -23,7 +23,7 @@ class AttackStep {
         this.expected_outcome = expected_outcome;
         this.execution_time_estimate = execution_time_estimate;
         this.success_probability = success_probability;
-        this.dependencies - dependencies;
+        this.dependencies = dependencies;
     }
 
     toJSON() {
