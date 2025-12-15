@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "glass-ctf": {
+      "command": "python",
+      "args": [
+        "C:\\MY_PERSONAL_SPACE\\Glass\\glass_mcp.py",
+        "--server",
+        "http://127.0.0.1:8888"
+      ],
+      "description": "Glass CTF Framework - AI-powered CTF challenge solving for Web, Crypto, PWN, Forensics, Reverse, OSINT, and Misc categories",
+      "timeout": 300,
+      "alwaysAllow": []
+    }
+  }
+}
