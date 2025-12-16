@@ -2,6 +2,8 @@
 
 AI-powered Model Context Protocol server for CTF challenge solving and automation.
 
+[Watch the video](https://www.youtube.com/watch?v=Ogpm1Fvv0bA)
+
 ## Features
 
 🎯 **CTF Categories Supported:**
